@@ -32,7 +32,7 @@ cd TrackThingsCRNA
 yarn start
 ```
 
-## TrackThingsExp
+## track-things-exp
 
 Uses Expo, must `npm run eject`	to include custom native modules
 
@@ -44,3 +44,4 @@ cd track-things-exp
 # start dev server and generate Expo link
 exp start
 ```
+
